@@ -16,7 +16,7 @@ User accounts can be added and deleted at will and all stats are saved and can b
 
 ![](UserAccounts.gif)
 
-This game is not fully finished by any means and I'm sure the code could be improved (refactored, optimized, etc.), but this was mainly for my own education and to make something interesting. I was inspired by the "That 70's Show" episode where Kelso and Red made smaller paddles for Pong because it was too easy for them lol.
+This game is not fully finished by any means and I'm sure the code could be improved (refactored, optimized, etc.), but this was mainly for my own education and to make something interesting without spending too much time on it. I was inspired by the "That 70's Show" episode where Kelso and Red made smaller paddles for Pong because it was too easy for them lol.
 
 # To Download and Play
-For whatever operating system you are on, go to the releases tab and download the zip file for your operating system. You can just run the Pong executable file and should be good to go.
+For whatever operating system you are on, go to the releases tab or <https://github.com/szmyty/Pong/releases> and download the zip file for your operating system. You can just run the Pong executable file and should be good to go. 
